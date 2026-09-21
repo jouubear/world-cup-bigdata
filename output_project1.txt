@@ -1,0 +1,63 @@
+======================================================================
+Project 1 - Word & Line Count  (Student ID: 20230945)
+Input file: 20230945.txt
+======================================================================
+Total number of lines : 11
+Total number of words : 482
+======================================================================
+Word frequencies (top 50, descending):
+----------------------------------------------------------------------
+ RANK  WORD                               COUNT
+----------------------------------------------------------------------
+    1  and                                   22
+    2  the                                   20
+    3  a                                     13
+    4  i                                     12
+    5  in                                    12
+    6  to                                    12
+    7  of                                     9
+    8  on                                     9
+    9  data                                   7
+   10  cloud                                  5
+   11  for                                    5
+   12  this                                   5
+   13  course                                 4
+   14  is                                     4
+   15  my                                     4
+   16  big                                    3
+   17  cluster                                3
+   18  computing                              3
+   19  me                                     3
+   20  real                                   3
+   21  spark                                  3
+   22  that                                   3
+   23  time                                   3
+   24  when                                   3
+   25  would                                  3
+   26  about                                  2
+   27  am                                     2
+   28  are                                    2
+   29  both                                   2
+   30  broadcast                              2
+   31  built                                  2
+   32  buzzwords                              2
+   33  counts                                 2
+   34  even                                   2
+   35  every                                  2
+   36  file                                   2
+   37  finally                                2
+   38  graduation                             2
+   39  hands                                  2
+   40  into                                   2
+   41  learning                               2
+   42  life                                   2
+   43  memory                                 2
+   44  mode                                   2
+   45  most                                   2
+   46  out                                    2
+   47  problems                               2
+   48  project                                2
+   49  remote                                 2
+   50  short                                  2
+======================================================================
+Done.

@@ -1,0 +1,57 @@
+[20230945_2] streaming query started, watching /data/incoming every 5s
+[20230945_2] checkpoint: /tmp/spark_checkpoint_20230945
+[20230945_2] drop a CSV file into /data/incoming/ and watch the rankings update.
+
+==============================================================================
+[batch 0] Cumulative country ranking by team mentions
+==============================================================================
+RANK  TEAM                COUNTRY     MENTIONS
+------------------------------------------------------------------------------
+   1  Germany             DE                11
+   2  Ghana               GH                11
+   3  Cameroon            CM                10
+   4  Panama              PA                10
+   5  Switzerland         CH                 9
+   6  Ireland             IE                 8
+   7  New Zealand         NZ                 8
+   8  Nigeria             NG                 8
+   9  Colombia            CO                 7
+  10  England             GB                 7
+  11  Iran                IR                 7
+  12  Ivory Coast         CI                 7
+  13  Qatar               QA                 7
+  14  Tunisia             TN                 7
+  15  Uruguay             UY                 7
+  16  Brazil              BR                 6
+  17  Ecuador             EC                 6
+  18  Spain               ES                 6
+  19  Sweden              SE                 6
+  20  United States       US                 6
+  21  Canada              CA                 5
+  22  Chile               CL                 5
+  23  Italy               IT                 5
+  24  Norway              NO                 5
+  25  Paraguay            PY                 5
+  26  Senegal             SN                 5
+  27  Argentina           AR                 4
+  28  Australia           AU                 4
+  29  Croatia             HR                 4
+  30  Denmark             DK                 4
+  31  Egypt               EG                 4
+  32  France              FR                 4
+  33  Jamaica             JM                 4
+  34  Scotland            GB                 4
+  35  Serbia              RS                 4
+  36  Ukraine             UA                 4
+  37  Mexico              MX                 3
+  38  Netherlands         NL                 3
+  39  Peru                PE                 3
+  40  Poland              PL                 3
+  41  Saudi Arabia        SA                 3
+  42  South Korea         KR                 3
+  43  Turkey              TR                 3
+  44  Jordan              JO                 2
+  45  Belgium             BE                 1
+  46  Morocco             MA                 1
+  47  Portugal            PT                 1
+==============================================================================
